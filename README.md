@@ -17,3 +17,4 @@ filename: README.md
         </section>
     </main>
 </body>
+Go to [Gallery](GALLERY.md)
