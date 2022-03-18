@@ -1,8 +1,3 @@
----
-title: About Me
-filename: README.md
----
-
 <!DOCTYPE html>
 <html>
     
@@ -16,6 +11,15 @@ filename: README.md
             <p>I am a sophmore at the University of Missouri</p>
             <li>
                 <a href="GALLERY.md">Gallery</a>
+            </li>
+            <li>
+                <a href="INTERESTS.md">Interests</a>
+            </li>
+            <li>
+                <a href="PROJECTS.md">Projects</a>
+            </li>
+            <li>
+                <a href="CONTACT.md">Contact Me</a>
             </li>
         </section>
     </main>
