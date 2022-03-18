@@ -14,7 +14,7 @@
             <p>Fluent in 1 language</p>
             <img src="https://media.ksdk.com/assets/KSDK/images/53c40055-bcea-42df-bd21-d75b7a525f19/53c40055-bcea-42df-bd21-d75b7a525f19_1920x1080.jpg">
             <li>
-                <a href="GALLERY.md">Gallery</a>
+                <a href="GALLERY.md"><b>Gallery</b></a>
             </li>
             <li>
                 <a href="INTERESTS.md">Interests</a>
