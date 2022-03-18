@@ -3,7 +3,7 @@
     
 <body>
     <header>
-        <h1>Quinn Reller's Portfolio</h1>
+        <h1><b><i>Quinn Reller's Portfolio</i></b></h1>
     </header>
     <main>
         <section>
