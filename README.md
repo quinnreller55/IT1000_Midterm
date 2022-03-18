@@ -14,7 +14,9 @@ filename: README.md
         <section>
             <h2>My Name is Quinn Reller</h2>
             <p>I am a sophmore at the University of Missouri</p>
+            <li>
+                <a href="GALLERY.md">Gallery</a>
+            </li>
         </section>
     </main>
 </body>
-Go to [Gallery](GALLERY.md)
