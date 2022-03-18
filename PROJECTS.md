@@ -1,27 +1,34 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="UTF-8">
-<title>Fizz Buzz</title>
-<script>
+    
+<body>
+    <header>
+        <h1>Previous Projects</h1>
+    </header>
+    <main>
+        <h1>Turtle Graphics Code Block</h1>
+        <p>import turtle
 
-function fizzbuzz() {
-	var display = document.getElementById('display');
-	var displayHTML = "";
-	for (i = 0; i < 100; i++) {
-		displayHTML += "<p>" + i + "</p>";
-	}
-	display.innerHTML = displayHTML;
-}
+turt = turtle.Turtle()
 
-</script>
+turt.pencolor("cyan")
+shapes = 60
+angle1 = 6
 
-</head>
+sides = 8
+length = 50
+angle2 = 360.0 / sides
 
-<body onload="fizzbuzz()">
-<div id="display">
+turt.speed(0)
 
-</div>
+for x in range(shapes):
+    for y in range(sides):
+        turt.forward(length)
+        turt.right(angle2)
+    turt.left(angle1)
+turt.done()
+
+</p>
+    </main>
 </body>
-
 </html>
