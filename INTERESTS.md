@@ -20,7 +20,7 @@
     </main>
     <section>
         <li>  
-            <a href="README.md">Home</a>
+            <a href="README.md"><b>Home</b></a>
         </li>
     </section>
 </body>

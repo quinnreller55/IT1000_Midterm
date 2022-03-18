@@ -10,7 +10,7 @@
         <img src="https://se-images.campuslabs.com/clink/images/da3d0e2d-af59-4a0b-9e7c-ce25f03b057403b94f61-5acd-4b7b-a37c-e8e1f4225a73.jpg?preset=med-sq">
         <section>
         <li>  
-            <a href="README.md">Home</a>
+            <a href="README.md"><b>Home</b></a>
         </li>
         </section>
     </main>

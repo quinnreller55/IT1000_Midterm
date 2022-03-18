@@ -17,16 +17,16 @@
                 <a href="GALLERY.md"><b>Gallery</b></a>
             </li>
             <li>
-                <a href="INTERESTS.md">Interests</a>
+                <a href="INTERESTS.md"><b>Interests</b></a>
             </li>
             <li>
-                <a href="PROJECTS.md">Projects</a>
+                <a href="PROJECTS.md"><b>Projects</b></a>
             </li>
             <li>
-                <a href="CONTACT.md">Contact Me</a>
+                <a href="CONTACT.md"><b>Contact Me</b></a>
             </li>
             <li>
-                <a href="PICKLE.md">PickleBall Club</a>
+                <a href="PICKLE.md"><b>Pickleball Club</b></a>
             </li>
         </section>
     </main>
