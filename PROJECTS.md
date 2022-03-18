@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
-    
-<body>
-    <header>
-        <h1>Previous Projects</h1>
-    </header>
-    <main>
-        import turtle
+<head>
+<meta charset="UTF-8">
+<title>Fizz Buzz</title>
+<script>
+
+import turtle
         turt = turtle.Turtle()
         turt.pencolor("cyan")
         shapes = 60
@@ -21,6 +20,8 @@
                 turt.right(angle2)
             turt.left(angle1)
         turt.done()
-    </main>
+
+</script>
+</head>
 </body>
 </html>
