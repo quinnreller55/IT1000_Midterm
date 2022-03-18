@@ -10,7 +10,9 @@
             <h3>Here are my dogs Tucker and Lola</h3>
         </section>
         <section> 
-            <img src="https://github.com/quinnreller55/IT1000_Midterm/blob/main/Pics/IMG_1804.jpg">
+            <img src="https://github.com/quinnreller55/IT1000_Midterm/blob/main/Pics/tub.JPG">
+            <img src="https://github.com/quinnreller55/IT1000_Midterm/blob/main/Pics/tubby%2Bbear.JPG">
+            <img src="https://github.com/quinnreller55/IT1000_Midterm/blob/main/Pics/tubbymountain.JPG">
         </section>
     </main>
 </body>
