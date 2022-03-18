@@ -13,6 +13,9 @@
             <img src="https://github.com/quinnreller55/IT1000_Midterm/blob/main/Pics/tub.JPG">
             <img src="https://github.com/quinnreller55/IT1000_Midterm/blob/main/Pics/tubby%2Bbear.JPG">
             <img src="https://github.com/quinnreller55/IT1000_Midterm/blob/main/Pics/tubbymountain.JPG">
+            <li>  
+                <a href="README.md">Home</a>
+            </li>
         </section>
     </main>
 </body>
