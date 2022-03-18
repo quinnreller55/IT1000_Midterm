@@ -36,8 +36,12 @@ for x in range(shapes):
    turt.left(angle1)
 
    turt.done()
-
-</p>
+        </p>
+        <section>
+            <li>  
+                <a href="README.md">Home</a>
+            </li>
+        </section>
     </main>
 </body>
 </html>
