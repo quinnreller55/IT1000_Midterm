@@ -37,11 +37,11 @@ for x in range(shapes):
 
    turt.done()
         </p>
-        <section>
-            <li>  
-                <a href="README.md">Home</a>
-            </li>
-        </section>
     </main>
+    <section>
+        <li>  
+            <a href="README.md">Home</a>
+        </li>
+    </section>
 </body>
 </html>

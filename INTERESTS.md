@@ -18,5 +18,10 @@
             <li>History</li>
         </ol> 
     </main>
+    <section>
+        <li>  
+            <a href="README.md">Home</a>
+        </li>
+    </section>
 </body>
 </html>
